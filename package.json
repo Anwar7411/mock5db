@@ -1,0 +1,24 @@
+{
+  "name": "mock5db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anwar7411/mock5db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anwar7411/mock5db/issues"
+  },
+  "homepage": "https://github.com/Anwar7411/mock5db#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

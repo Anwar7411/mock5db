@@ -1,0 +1,60 @@
+{
+  "cars": [
+    {
+      "brand": "Maruthi",
+      "type": "Manual",
+      "year": "2020",
+      "km": "25469",
+      "description": "Maruthi with all original documents",
+      "price": "1185000",
+      "id": 1
+    },
+    {
+      "brand": "Tata",
+      "type": "Manual",
+      "year": "2021",
+      "km": "27469",
+      "description": "Tata with all original documents",
+      "price": "1558995",
+      "id": 2
+    },
+    {
+      "brand": "Tata",
+      "type": "Manual",
+      "year": "2019",
+      "km": "22469",
+      "description": "Tata with all original documents",
+      "price": "1358995",
+      "id": 3
+    },
+    {
+      "brand": "Maruthi",
+      "type": "Manual",
+      "year": "2022",
+      "km": "20469",
+      "description": "Maruthi with all original documents",
+      "price": "1058995",
+      "id": 1
+    },
+    {
+      "brand": "Honda",
+      "type": "AMT",
+      "year": "2022",
+      "km": "1245689",
+      "description": "Honda with all original documents",
+      "price": "1659000",
+      "id": 4
+    }
+  ],
+  "wishlist": [
+    {
+      "brand": "Maruthi",
+      "type": "Manual",
+      "year": "2020",
+      "km": "25469",
+      "description": "Maruthi with all original documents",
+      "price": "1258995",
+      "id": 1
+    }
+  ]
+}
