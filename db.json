@@ -56,5 +56,36 @@
       "price": "1258995",
       "id": 1
     }
+  ],
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": "2",
+      "place": "Visakhapatnam",
+      "gender": "male"
+    },
+    {
+      "name": "sheru",
+      "age": "5",
+      "gender": "male",
+      "place": "ballari",
+      "id": 2
+    },
+    {
+      "name": "sweetie",
+      "age": "2",
+      "gender": "female",
+      "place": "raichur",
+      "id": 3
+    },
+    {
+      "name": "kat",
+      "age": "4",
+      "gender": "female",
+      "place": "raidurg",
+      "id": 4
+    }
   ]
+  
 }
